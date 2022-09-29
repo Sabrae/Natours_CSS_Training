@@ -1,1 +1,1 @@
-Hello world!
+This is a training project for the study of CSS
