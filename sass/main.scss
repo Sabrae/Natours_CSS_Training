@@ -8,13 +8,14 @@
 @import "base/_utilites";
 
 @import "components/_bg-video";
-@import "components/_button";
+@import "components/button";
 @import "components/_card";
 @import "components/_composition";
 @import "components/_feature-box";
+@import "components/form";
 @import "components/story";
 
 @import "layout/_header";
 @import "layout/_grid";
 
-@import "pages/_home";
+@import "pages/home";
